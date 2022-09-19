@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appServiceName": {
-      "value": ""
+      "value": "SITOPSHackathonBot"
     },
     "existingAppServicePlanName": {
       "value": ""
@@ -12,10 +12,10 @@
       "value": ""
     },
     "newAppServicePlanName": {
-      "value": ""
+      "value": "SITOPSHackathonBotSP"
     },
     "newAppServicePlanLocation": {
-      "value": ""
+      "value": "WestUS"
     },
     "newAppServicePlanSku": {
       "value": {
@@ -27,22 +27,22 @@
       }
     },
     "appType": {
-      "value": "MultiTenant"
+      "value": "UserAssignedMSI"
     },
     "appId": {
-      "value": ""
+      "value": "e3eb6ac4-9e29-448c-ba16-f758099894e6"
     },
     "appSecret": {
       "value": ""
     },
     "UMSIName": {
-      "value": ""
+      "value": "SITOPSHackathonBot"
     },
     "UMSIResourceGroupName": {
-      "value": ""
+      "value": "Hackathon"
     },
     "tenantId": {
-      "value": ""
+      "value": "cf5af9f9-321a-45a6-a1c5-48541eb65c41"
     }
   }
 }

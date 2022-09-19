@@ -3,31 +3,31 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "azureBotId": {
-      "value": ""
+      "value": "SITOPSHackathonBot"
     },
     "azureBotSku": {
-      "value": "S1"
+      "value": "F0"
     },
     "azureBotRegion": {
-      "value": "global"
+      "value": "WestUS"
     },
     "botEndpoint": {
-      "value": ""
+      "value": "https://sitopshackathonbot.azurewebsites.net/api/messages"
     },
     "appType": {
-      "value": "MultiTenant"
+      "value": "UserAssignedMSI"
     },
     "appId": {
-      "value": ""
+      "value": "e3eb6ac4-9e29-448c-ba16-f758099894e6"
     },
     "UMSIName": {
-      "value": ""
+      "value": "SITOPSHackathonBot"
     },
     "UMSIResourceGroupName": {
-      "value": ""
+      "value": "Hackathon"
     },
     "tenantId": {
-      "value": ""
+      "value": "cf5af9f9-321a-45a6-a1c5-48541eb65c41"
     }
   }
 }
