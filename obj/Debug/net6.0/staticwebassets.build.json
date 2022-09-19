@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "RBlxVzbaUYHoMgbtSqFjLFKQLitqtjlQOJJmAdqbj6M=",
+  "Source": "WelcomeUser",
+  "BasePath": "_content/WelcomeUser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WelcomeUser\\wwwroot",
+      "Source": "WelcomeUser",
+      "ContentRoot": "C:\\Users\\longfeichen\\OneDrive - Microsoft\\Repos\\SITOPSBot\\wwwroot\\",
+      "BasePath": "_content/WelcomeUser",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\longfeichen\\OneDrive - Microsoft\\Repos\\SITOPSBot\\wwwroot\\default.htm",
+      "SourceId": "WelcomeUser",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\longfeichen\\OneDrive - Microsoft\\Repos\\SITOPSBot\\wwwroot\\",
+      "BasePath": "_content/WelcomeUser",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
